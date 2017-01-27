@@ -1,6 +1,7 @@
 # letstalk
 Start interesting conversations!
-
+Inside letstalk folder, type
+```python letstalk.py``` to run on localhost
 
 ## Resources and documentation used
 
